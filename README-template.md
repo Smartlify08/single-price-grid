@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/Smartlify08/single-price-grid)
-- Live Site URL: [Add live site URL here](https://ornate-palmier-611a29.netlify.app/)
+- Solution URL: [Github repo:](https://github.com/Smartlify08/single-price-grid)
+- Live Site URL: [Live Site:](https://ornate-palmier-611a29.netlify.app/)
 
 ### Built with
 
@@ -34,5 +34,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://superb-pony-63b1e3.netlify.app/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Smartlify08)
+- Website - [Anosike Obinna Smart](https://superb-pony-63b1e3.netlify.app/)
+- Frontend Mentor - [Smartlify08](https://www.frontendmentor.io/profile/Smartlify08)
